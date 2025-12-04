@@ -1,0 +1,31 @@
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe.config
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.AssemblyReference.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Form1.resources
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Properties.Resources.resources
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.GenerateResource.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.CoreCompileInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe.config
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Form1.resources
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Properties.Resources.resources
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\aluno\Desktop\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe.config
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\bin\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.AssemblyReference.cache
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Form1.resources
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Properties.Resources.resources
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.GenerateResource.cache
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).csproj.CoreCompileInputs.cache
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).exe
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula-12-(ValidarAluno).pdb
+C:\Users\cavia\OneDrive\Área de Trabalho\Aula-12-(ValidarAluno)\Aula-12-(ValidarAluno)\obj\Debug\Aula_12__ValidarAluno_.Consulta.resources
